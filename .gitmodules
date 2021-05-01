@@ -1,3 +1,6 @@
 [submodule "azure-aks-helm-terraform-cross-namespace-ingress-with-custom-domain"]
 	path = azure-aks-helm-terraform-cross-namespace-ingress-with-custom-domain
 	url = git@github.com:jon-grey/azure-aks-helm-terraform-cross-namespace-ingress-with-custom-domain.git
+[submodule "github-actions_all-in-one"]
+	path = github-actions_all-in-one
+	url = git@github.com:jon-grey/github-actions_all-in-one.git
